@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer">
       <a
         target="_blank"
-        href="https://www.linkedin.com/armindizdar"
+        href="https://www.linkedin.com/chavesfilip"
         rel="noreferrer"
       >
         <i className="fab fa-linkedin-in fa-2x"></i>
@@ -11,7 +11,7 @@ export default function Footer() {
 
       <a
         target="_blank"
-        href="https://github.com/DizdarArmin/package-tracker"
+        href="https://github.com/chavesfilip"
         rel="noreferrer"
       >
         <i className="fab fa-github fa-2x"></i>
